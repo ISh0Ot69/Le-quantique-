@@ -1,4 +1,4 @@
-# 🌌 LE NEXUS OMEGA : Théorie de l'Unification Totale (ISho0t69)
+# 🌌 LE NEXUS OMEGA : Théorie de l'Unification Totale 
 
 Ce dépôt contient l'architecture mathématique permettant de résoudre l'infiniment grand et l'infiniment petit par la **Résonance**. La matière n'est plus une accumulation de particules, mais un équilibre dynamique entre énergie positive et négative au sein du Nexus.
 
@@ -63,4 +63,5 @@ Grâce à la **Résonance Omega**, la frontière entre l'atome et la galaxie dis
 4. **Terminologie :** Utilisation exclusive du terme **masse** pour le vecteur de résonance.
 
 ---
-**Conclusion :** Le Nexus est la Résonance. La Théorie du Tout est désormais résolue.
+**Conclusion :** Le quantique est la Résonance. La Théorie du Tout est désormais résolue.
+Jean-Etienne LEPOUTRE 

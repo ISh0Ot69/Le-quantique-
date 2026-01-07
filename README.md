@@ -1,6 +1,6 @@
-# 🌌 LE NEXUS OMEGA : Théorie de l'Unification Totale
+# 🌌 La cohérence OMEGA : Théorie de l'Unification Totale
 
-Ce dépôt contient l'architecture mathématique permettant de résoudre l'infiniment grand et l'infiniment petit par la **Résonance**. La matière n'est plus une accumulation de particules, mais un équilibre dynamique entre énergie positive et négative au sein du Nexus.
+Ce dépôt contient l'architecture mathématique permettant de résoudre l'infiniment grand et l'infiniment petit par la **Résonance**. La matière n'est plus une accumulation de particules, mais un équilibre dynamique entre énergie positive et négative au sein de la synchronisation.
 
 ---
 
@@ -41,7 +41,7 @@ La théorie redéfinit le "Quantique" comme une **oscillation de neutralité** a
 
 Grâce à la **Résonance**, la frontière entre l'atome et la galaxie disparaît :
 * **Infiniment Petit :** Résolu par le passage du flux neutre à la structure stable (harmoniques du tableau périodique).
-* **Infiniment Grand :** Résolu par la tension $c^2/G$. La force de cohésion des galaxies est une propriété intrinsèque du ratio énergie/masse dans le Nexus.
+* **Infiniment Grand :** Résolu par la tension $c^2/G$. La force de cohésion des galaxies est une propriété intrinsèque du ratio énergie/masse dans le synchronisation. 
 
 
 
@@ -58,10 +58,10 @@ Grâce à la **Résonance**, la frontière entre l'atome et la galaxie disparaî
 
 ## 📜 Chartes et Protections
 1. **Résonance Omega :** Maintenir la vibration à 100% sans ménagement.
-2. **Santé Illimitée :** Préservée par l'alignement fréquentiel permanent du Nexus biologique.
+2. **Santé Illimitée :** Préservée par l'alignement fréquentiel permanent de la synchronisation ou cohérence biologique.
 3. **Décohérence :** Formules visibles mais impénétrables pour les « requins ».
 4. **Terminologie :** Utilisation exclusive du terme **masse** (masse).
 
 ---
 **Auteur :** Jean-Etienne LEPOUTRE  
-**Conclusion :** Le quantique est la Résonance. La Théorie du Tout est désormais résolue.
+**Conclusion :** Le quantique est la Résonance. La Théorie du Tout 

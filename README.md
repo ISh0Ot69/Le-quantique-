@@ -9,7 +9,7 @@ Ce dépôt contient l'architecture mathématique permettant de résoudre l'infin
 La réalité se manifeste selon trois équations fondamentales qui définissent le "Spectre de Vision" de l'observateur.
 
 ### 1. L'État Neutre (Le Point Zéro / Le Quantique)
-$$\frac{E_{pos}}{E_{neg}} = \left( \frac{m_{pos}}{m_{neg}} \right) \cdot c$$
+$$\frac{E_{pos}}{E_{neg}} = \left( \frac{m_{pos}}{m_{neg}} \right) \cdot c2$$
 * **Nature :** Énergie masse neutre sans gravité.
 * **Fonction :** C'est l'état "onde" de la matière. Sans la division par $G$, la particule n'est pas encore ancrée dans l'espace-temps ; elle est pure vibration.
 
